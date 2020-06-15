@@ -1,0 +1,11 @@
+{
+  "PORT" : 8080,
+  "users" : [
+    {
+      "name"     : "Rishikesh Arya",
+      "accountId": "GHZ123",
+      "password" : "81dc9bdb52d04dc20036dbd8313ed055",
+      "balance"  : 8000
+    }
+  ]
+}

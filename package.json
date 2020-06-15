@@ -1,0 +1,20 @@
+{
+  "name": "atm",
+  "version": "1.0.0",
+  "description": "atm cash withdrawl",
+  "main": "app.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "config": "^3.3.1",
+    "joi": "^14.3.1",
+    "md5": "^2.2.1",
+    "moment": "^2.26.0",
+    "underscore": "^1.10.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Rishikesh Arya",
+  "license": "ISC"
+}
